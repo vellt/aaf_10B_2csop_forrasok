@@ -7,5 +7,5 @@ Ez a repository a **Asztali alkalmazás II** tárgy forrásanyagait tartalmazza,
 A forrásanyagok letöltéséhez és használatához futtasd az alábbi parancsot a kívánt branchet letöltve:
 
 ```bash
-git clone -b branch_nev https://github.com/vellt/aaf_12B_1csop_forrasok.git
+git clone -b branch_nev https://github.com/vellt/aaf_12B_2csop_forrasok.git
 ```
