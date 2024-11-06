@@ -7,5 +7,5 @@ Ez a repository a **Asztali alkalmazás II** tárgy forrásanyagait tartalmazza,
 A forrásanyagok kisertethaz és használatához futtasd az alábbi parancsot a kívánt branchet letöltve:
 
 ```bash
-git clone -b tic_tac_toe https://github.com/vellt/aaf_12_forrasok.git
+git clone -b ko_papir_ollo https://github.com/vellt/aaf_12_forrasok.git
 ```
