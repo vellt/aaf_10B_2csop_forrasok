@@ -7,5 +7,5 @@ Ez a repository a **Asztali alkalmazás II** tárgy forrásanyagait tartalmazza,
 A forrásanyagok kisertethaz és használatához futtasd az alábbi parancsot a kívánt branchet letöltve:
 
 ```bash
-git clone -b jelszo_generator https://github.com/vellt/aaf_12_forrasok.git
+git clone -b topjoy https://github.com/vellt/aaf_12_forrasok.git
 ```
